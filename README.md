@@ -30,3 +30,7 @@ I build web, mobile applications with Top Developers, Low-Code strategies, Cloud
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
+### Github Stats  
+<b>My GitHub Stats</b>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomaneiro&hide_border=true&layout=compact&hide=css,scss,java,html&theme=tokyonight" align="center" style="width: 100%" /></div>  
