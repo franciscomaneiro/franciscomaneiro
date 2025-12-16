@@ -6,7 +6,6 @@ Full Stack Developer
 
 I build web, mobile applications with Top Developers, Low-Code strategies, Cloud-based architecture, Artificial Intelligence
 
-* 🌍  I'm based in Venezuela
 * ✉️  You can contact me at [franciscomaneiro97@gmail.com](mailto:franciscomaneiro97@gmail.com)
 * 🧠  I'm Learning Swift
 * 🤝  I'm open to collaborating on React-native projects
