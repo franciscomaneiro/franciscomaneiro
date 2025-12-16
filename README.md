@@ -6,9 +6,9 @@ Full Stack Developer
 
 I build web and mobile applications with modern technologies, cloud-based architecture, and best practices
 
-* 🌍  I'm based in [Your Location]
-* 🖥️  See my portfolio at [Your Portfolio](http://yourportfolio.com)
-* ✉️  You can contact me at [your.email@example.com](mailto:your.email@example.com)
+* 🌍  I'm a passionate developer
+* 🖥️  See my work on [GitHub](https://github.com/franciscomaneiro)
+* ✉️  You can reach out to me via GitHub
 * 🚀  I'm currently working on exciting projects
 * 🧠  I'm learning new technologies and frameworks
 * 🤝  I'm open to collaborating on interesting projects
@@ -65,4 +65,4 @@ src="https://img.shields.io/github/followers/franciscomaneiro?logo=github&style=
 ## Github Stats  
 <b>My GitHub Stats</b>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomaneiro&hide_border=true&layout=compact&hide=css,scss,java,html&theme=tokyonight" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomaneiro&hide_border=true&layout=compact&theme=tokyonight" align="center" style="width: 100%" /></div>
