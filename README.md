@@ -32,6 +32,5 @@ I build web, mobile applications with Top Developers, Low-Code strategies, Cloud
 </p>
 
 ### Github Stats  
-<b>My GitHub Stats</b>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomaneiro&hide_border=true&layout=compact&hide=css,scss,java,html&theme=tokyonight" align="center" style="width: 100%" /></div>  
